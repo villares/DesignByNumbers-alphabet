@@ -12,10 +12,9 @@ Almost a year ago I wrote a sketch that would "translate" a set of DBN letter "c
 
 - Code to parse the dbnletters.dbn file creating letter drawing functions in Processing Python Mode: [parse_dbn_letters](https://github.com/villares/DesignByNumbers-alphabet/tree/master/parse_dbn_letters)
 
+- Code that generates, from the dbnletters.dbn data, the [dbn_letters.py](https://github.com/villares/DesignByNumbers-alphabet/tree/master/dbn_letters_example/dbn_letters.py) code for use with Processing Python Mode: [generate_dbn_letters_py](https://github.com/villares/DesignByNumbers-alphabet/tree/master/generate_dbn_letters_py) 
 
-- Code that generates the [dbn_letters.py] code for use with Processing Python Mode from the dbnletters.dbn file: [generate_dbn_letters_py](https://github.com/villares/DesignByNumbers-alphabet/tree/master/parse_dbn_letters) 
-
-- An example sketch using the generated code: [dbn_letters_example] (https://github.com/villares/DesignByNumbers-alphabet/tree/master/dbn_letters_example)
+- An example sketch using the generated code: [dbn_letters_example](https://github.com/villares/DesignByNumbers-alphabet/tree/master/dbn_letters_example)
 
 - A pixel font with the same pixels:[pixels-from-DBN] (https://fontstruct.com/fontstructions/show/1628742/pixels-from-dbn)
 
