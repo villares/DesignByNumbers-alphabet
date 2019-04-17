@@ -8,6 +8,8 @@
 
 About a year ago I wrote a sketch that would "translate" a set of DBN letter "commands" presented in the "DBN book", into Processing Python Mode equivalents (sort of).
 
+### Processing Python Mode
+
 ![sample_parse](https://raw.githubusercontent.com/villares/DesignByNumbers-alphabet/master/parse_dbn_letters/sample_parse.png)
 
 - Code to parse the dbnletters.dbn file creating letter drawing functions in Processing Python Mode: [parse_dbn_letters](https://github.com/villares/DesignByNumbers-alphabet/tree/master/parse_dbn_letters)
@@ -16,10 +18,12 @@ About a year ago I wrote a sketch that would "translate" a set of DBN letter "co
 
 - An example sketch using the generated code: [dbn_letters_example](https://github.com/villares/DesignByNumbers-alphabet/tree/master/dbn_letters_example)
 
+- Some other dead ends: maybe soon here
+
+### Font derivations
+
 ![image](fontstruct.png)
 
-- A pixel font with the same pixels:[pixels-from-DBN] (https://fontstruct.com/fontstructions/show/1628742/pixels-from-dbn)
+- A pixel font with the same pixels:[pixels-from-DBN](https://fontstruct.com/fontstructions/show/1628742/pixels-from-dbn)
 
-- And I've created a derivative font: [lines-from-DBN] (https://fontstruct.com/fontstructions/show/1628754/)
-
-- Some other dead ends: maybe soon here
+- And I've created a derivative font: [lines-from-DBN](https://fontstruct.com/fontstructions/show/1628754/)
