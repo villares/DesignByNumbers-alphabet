@@ -6,7 +6,7 @@
 >
 >*Design By Numbers was created for visual designers and artists as an introduction to computational design. It is the result of a continuing endeavor by Professor John Maeda to teach the “idea” of computation to designers and artists. It is his belief that the quality of media art and design can only improve through establishing educational infrastructure in arts and technology schools that create strong, cross-disciplinary individuals.*
 
-Almost a year ago I wrote a sketch that would "translate" a set of DBN letter "commands" presented in the "DBN book", into Processing Python Mode equivalents (sort of).
+About a year ago I wrote a sketch that would "translate" a set of DBN letter "commands" presented in the "DBN book", into Processing Python Mode equivalents (sort of).
 
 ![sample_parse](https://raw.githubusercontent.com/villares/DesignByNumbers-alphabet/master/parse_dbn_letters/sample_parse.png)
 
@@ -16,7 +16,7 @@ Almost a year ago I wrote a sketch that would "translate" a set of DBN letter "c
 
 - An example sketch using the generated code: [dbn_letters_example](https://github.com/villares/DesignByNumbers-alphabet/tree/master/dbn_letters_example)
 
-![image](fontruct.png)
+![image](fontstruct.png)
 
 - A pixel font with the same pixels:[pixels-from-DBN] (https://fontstruct.com/fontstructions/show/1628742/pixels-from-dbn)
 
