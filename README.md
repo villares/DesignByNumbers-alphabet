@@ -16,8 +16,10 @@ Almost a year ago I wrote a sketch that would "translate" a set of DBN letter "c
 
 - An example sketch using the generated code: [dbn_letters_example](https://github.com/villares/DesignByNumbers-alphabet/tree/master/dbn_letters_example)
 
+![image](fontruct.png)
+
 - A pixel font with the same pixels:[pixels-from-DBN] (https://fontstruct.com/fontstructions/show/1628742/pixels-from-dbn)
 
-- A derivative " font: [lines-from-DBN] (https://fontstruct.com/fontstructions/show/1628742/pixels-from-dbn)
+- And I've created a derivative font: [lines-from-DBN] (https://fontstruct.com/fontstructions/show/1628754/)
 
 - Some other dead ends: maybe soon here
