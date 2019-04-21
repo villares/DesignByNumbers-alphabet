@@ -15,18 +15,18 @@ Lately I  also tried my hand with [fontstruct.com](https://fontstruct.com) and m
 
 ![sample_parse](https://raw.githubusercontent.com/villares/DesignByNumbers-alphabet/master/parse_dbn_letters/sample_parse.png)
 
-- Code to parse the dbnletters.dbn file creating letter drawing functions in Processing Python Mode: [parse_dbn_letters](https://github.com/villares/DesignByNumbers-alphabet/tree/master/parse_dbn_letters)
+- Code to parse the `dbnletters.dbn` file creating letter drawing functions in Processing Python Mode: [parse_dbn_letters](https://github.com/villares/DesignByNumbers-alphabet/tree/master/parse_dbn_letters)
 
-- Code that generates, from the dbnlettersLatel.dbn data, the [dbn_letters.py](https://github.com/villares/DesignByNumbers-alphabet/tree/master/dbn_letters_example/dbn_letters.py) code for use with Processing Python Mode: [generate_dbn_letters_py](https://github.com/villares/DesignByNumbers-alphabet/tree/master/generate_dbn_letters_py) 
+- Code that generates, from the `dbnletters.dbn` data, [dbn_letters.py](https://github.com/villares/DesignByNumbers-alphabet/tree/master/dbn_letters_example/dbn_letters.py) for use with Processing Python Mode: [generate_dbn_letters_py](https://github.com/villares/DesignByNumbers-alphabet/tree/master/generate_dbn_letters_py) 
 
 - An example sketch using the generated code: [dbn_letters_example](https://github.com/villares/DesignByNumbers-alphabet/tree/master/dbn_letters_example)
 
-- Some other dead ends: maybe soon here
+- Some other experiments: maybe soon here
 
 ### Font derivations
 
 ![image](fontstruct.png)
 
-- A pixel font with the same pixels:[pixels-from-DBN](https://fontstruct.com/fontstructions/show/1628742/pixels-from-dbn)
+- A pixel font with the same pixels: [pixels-from-DBN](https://fontstruct.com/fontstructions/show/1628742/pixels-from-dbn)
 
 - And I've created a derivative font: [lines-from-DBN](https://fontstruct.com/fontstructions/show/1628754/)
