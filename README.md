@@ -21,7 +21,9 @@ Lately I  also tried my hand with [fontstruct.com](https://fontstruct.com) and m
 
 - An example sketch using the generated code: [dbn_letters_example](https://github.com/villares/DesignByNumbers-alphabet/tree/master/dbn_letters_example)
 
-- Some other experiments: maybe soon here
+- Some other experiments, color strokes and a poly-shape trial: [dbn_color_and_polys](https://github.com/villares/DesignByNumbers-alphabet/tree/master/dbn_color_and_polys)
+
+![color_and_polys_sample](https://raw.githubusercontent.com/villares/DesignByNumbers-alphabet/master/dbn_color_and_polys/color_and_polys_sample.png)
 
 ### Font derivations
 
