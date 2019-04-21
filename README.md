@@ -4,9 +4,12 @@
 
 >***What is DBN?***
 >
->*Design By Numbers was created for visual designers and artists as an introduction to computational design. It is the result of a continuing endeavor by Professor John Maeda to teach the “idea” of computation to designers and artists. It is his belief that the quality of media art and design can only improve through establishing educational infrastructure in arts and technology schools that create strong, cross-disciplinary individuals.*
+>*Design By Numbers [programming environment] was created for visual designers and artists as an introduction to computational design. It is the result of a continuing endeavor by Professor John Maeda to teach the “idea” of computation to designers and artists. It is his belief that the quality of media art and design can only improve through establishing educational infrastructure in arts and technology schools that create strong, cross-disciplinary individuals.*
 
-About a year ago I wrote a sketch that would "translate" a set of DBN letter "commands" presented in the "DBN book", into Processing Python Mode equivalents (sort of).
+As I was reading the Design By Numbers book for my master's degree about a year ago I was amazed by a set of DBN letter "commands" written by Maeda, available as a `.dbn` code file as well, so I didn't have to type them out, so I  wrote a sketch that would translate them into Processing equivalents (sort of).
+
+Lately I  also tried my hand with [fontstruct.com](https://fontstruct.com) and made some derivative fonts. 
+
 
 ### Processing Python Mode
 
@@ -14,7 +17,7 @@ About a year ago I wrote a sketch that would "translate" a set of DBN letter "co
 
 - Code to parse the dbnletters.dbn file creating letter drawing functions in Processing Python Mode: [parse_dbn_letters](https://github.com/villares/DesignByNumbers-alphabet/tree/master/parse_dbn_letters)
 
-- Code that generates, from the dbnletters.dbn data, the [dbn_letters.py](https://github.com/villares/DesignByNumbers-alphabet/tree/master/dbn_letters_example/dbn_letters.py) code for use with Processing Python Mode: [generate_dbn_letters_py](https://github.com/villares/DesignByNumbers-alphabet/tree/master/generate_dbn_letters_py) 
+- Code that generates, from the dbnlettersLatel.dbn data, the [dbn_letters.py](https://github.com/villares/DesignByNumbers-alphabet/tree/master/dbn_letters_example/dbn_letters.py) code for use with Processing Python Mode: [generate_dbn_letters_py](https://github.com/villares/DesignByNumbers-alphabet/tree/master/generate_dbn_letters_py) 
 
 - An example sketch using the generated code: [dbn_letters_example](https://github.com/villares/DesignByNumbers-alphabet/tree/master/dbn_letters_example)
 
