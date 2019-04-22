@@ -6,7 +6,7 @@
 >
 >*Design By Numbers [programming environment] was created for visual designers and artists as an introduction to computational design. It is the result of a continuing endeavor by Professor John Maeda to teach the “idea” of computation to designers and artists. It is his belief that the quality of media art and design can only improve through establishing educational infrastructure in arts and technology schools that create strong, cross-disciplinary individuals.*
 
-As I was reading the Design By Numbers book for my master's degree about a year ago I was amazed by a set of DBN letter "commands" written by Maeda, available as a `.dbn` code file as well, so I didn't have to type them out, so I  wrote a sketch that would translate them into Processing equivalents (sort of).
+As I was reading Maeda's Design By Numbers book for my master's degree about a year ago I was amazed by a set of DBN letter "commands" [written by Peter Cho](https://twitter.com/johnmaeda/status/1120021496733347840), available as a `.dbn` code file as well, so I didn't have to type them out, so I  wrote a sketch that would translate them into Processing equivalents (sort of).
 
 Lately I  also tried my hand with [fontstruct.com](https://fontstruct.com) and made some derivative fonts. 
 
